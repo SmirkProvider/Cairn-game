@@ -1,0 +1,51 @@
+/*
+Theme Name:     Xion Progression Child
+Description:    Child Theme for Xion Theme
+Author:         Progression Studios
+Template:       xion-progression
+
+*/
+form.sib_signup_form {
+	box-sizing: border-box;
+}
+form.sib_signup_form .sib_signup_box_inside_1 {
+	display: inline-block;
+	width: 100%;
+    padding: 0;
+    margin: 0;
+}
+form.sib_signup_form .sib_signup_box_inside_1 p {
+    margin: 0!important;
+    padding: 0;
+    display: inline;
+}
+form.sib_signup_form .sib_signup_box_inside_1 input {
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    border-radius: 0;
+    padding: 11px 14px 11px 0;
+    color: #fff;
+    font-size: 15px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: 0 0;
+    width: 400px;
+    max-width: calc(100% - 100px);
+    margin-right: 3px;
+	outline: 0;
+}
+form.sib_signup_form .sib_signup_box_inside_1 input[type='submit'] {
+	margin-right: 0;
+    color: #03090d;
+    background: #ffffff;
+    font-size: 12px;
+    padding: 13px 14px;
+    border-radius: 0;
+    border: none;
+    position: relative;
+    width: auto;
+    border: none;
+    top: -1px;
+    font-weight: 700;
+}

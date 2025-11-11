@@ -1,0 +1,27 @@
+.elementor-kit-4453{--e-global-color-primary:#EB3F6D;--e-global-color-secondary:#3C4755;--e-global-color-text:#7A7A7A;--e-global-color-accent:#EB3F6D;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;background-color:#3A3444;font-family:"Space Grotesk", Sans-serif;}.elementor-kit-4453 e-page-transition{background-color:#FFBC7D;}.elementor-kit-4453 a{color:#FFFFFF;font-family:"Space Grotesk", Sans-serif;font-size:15px;}.elementor-kit-4453 a:hover{color:#FC4172;}.elementor-kit-4453 h1{font-family:"Share", Sans-serif;font-size:60px;text-transform:uppercase;}.elementor-kit-4453 h2{font-family:"Share", Sans-serif;text-transform:uppercase;}.elementor-kit-4453 h3{font-family:"Space Grotesk", Sans-serif;}.elementor-kit-4453 h4{font-family:"Share", Sans-serif;text-transform:uppercase;}.elementor-kit-4453 h5{font-family:"Share", Sans-serif;}.elementor-kit-4453 h6{font-family:"Share", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */a {color:#eb3f6d;}
+.sidebar h4.widget-title {
+    color: #ffffff;}
+    
+    .sidebar-item {
+    background: #262627!important;
+}
+
+.sidebar h4.widget-title {
+    font-size: 19px;
+    margin-bottom: 0px;
+    color: #fff!important;
+    text-transform: uppercase;
+    font-family: 'Share', sans-serif;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 0.1em;
+    font-size: 18;
+    background: #262627;
+    padding: 29px 40px 26px 40px;
+    margin-left: -40px;
+    margin-right: -40px;
+}
+
+.sidebar ul li.current-cat, .sidebar ul li.current-cat a, .sidebar a:hover {
+    color: #eb3f6d!important;
+}/* End custom CSS */
